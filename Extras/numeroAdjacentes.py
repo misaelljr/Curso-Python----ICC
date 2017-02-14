@@ -1,0 +1,1 @@
+numero = int(input("Digite um numero para verificar adjascência: "))
